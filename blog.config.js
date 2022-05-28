@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'EasonsBlog',
+  author: 'Eason Jeung',
+  email: 'jump1984@163.com',
+  link: 'https://easonj.vercel.app',
+  description: 'It is so hard to write a correct code.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
